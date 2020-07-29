@@ -3,5 +3,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## This is React Assignment
 
 In the project directory, you can run:
-### `npm install`
-### `npm start`
+## `npm install`
+## `npm start`
