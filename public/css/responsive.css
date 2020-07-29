@@ -1,0 +1,9 @@
+@media only screen and (max-width: 768px){
+
+	.welcome-text{font-size: 28px;}
+}
+@media (min-width: 768px){
+.main-content .container-fluid {
+    /* padding-left: 39px !important; */
+    /* padding-right: 39px !important; */
+padding:0px;}}
